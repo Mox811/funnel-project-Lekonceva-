@@ -34,8 +34,8 @@ https://www.smashingmagazine.com/, https://css-tricks.com/. Открывать
 
 | Поле | Значение |
 |---|---|
-| Название сайта |  |Google Marketing Platform — Analytics| Адрес |  |
-| Откуда сайт | из списка в задании / свой |
+| Название сайта |  |Google Marketing Platform — Analytics| Адрес |  [|](https://marketingplatform.google.com/about/analytics/)
+| Откуда сайт | свой |
 
 ## 2. Три действия и что отправил счётчик
 
